@@ -165,10 +165,7 @@ This project demonstrates:
 * Responsiveness and usability
 
 ---
-
-## 📸 Demo
-
-(Add your deployed link here — Vercel / Netlify)
+(https://finance-dashboard-two-phi.vercel.app/)
 
 ---
 
