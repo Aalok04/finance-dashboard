@@ -165,8 +165,8 @@ This project demonstrates:
 * Responsiveness and usability
 
 ---
-(https://finance-dashboard-two-phi.vercel.app/)
 
+https://finance-dashboard-two-phi.vercel.app/
 ---
 
 ## 👨‍💻 Author
