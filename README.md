@@ -91,7 +91,6 @@ Role can be switched using a dropdown for demonstration.
 ---
 
 ## 🛠 Tech Stack
-* Tailwind CSS
 * Recharts (for charts)
 * React Router DOM
 * Context API
@@ -165,8 +164,9 @@ This project demonstrates:
 * Responsiveness and usability
 
 ---
+# Click  here to  view the project
+https://finance-dashboard-two-phi.vercel.app
 
-https://finance-dashboard-two-phi.vercel.app/
 ---
 
 ## 👨‍💻 Author
